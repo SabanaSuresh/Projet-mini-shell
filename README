@@ -33,17 +33,7 @@ README:
 Ce fichier.
 
 Fichiers à modifier
-###################
 
-Vous n'avez besoin de modifier que le fichier minishell.c (et le fichier AUTHOR pour y mettre votre nom).
-
-Vous pouvez ajouter des tests dans le repertoire tests (vous êtes même
-encouragés à le faire), à condition d'avoir bien compris le
-fonctionnement du programme runtest.sh. 
-
-ATTENTION: NE MODIFIEZ PAS LES FICHIERS EXISTANTS SANS L'ACCORD PRÉALABLE D'UN RESPONSABLE DE L'UE.
-
-Compiler/tester
 ###############
 
 Compiler testlex
@@ -61,4 +51,3 @@ Tester minishell
 Auteur
 ######
 
-Voir le fichier AUTHOR
